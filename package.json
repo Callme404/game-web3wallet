@@ -1,7 +1,7 @@
 {
   "name": "game-web3wallet",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "main": "index.html",
   "homepage": "https://github.com/Callme404/game-web3wallet",
   "scripts": {
